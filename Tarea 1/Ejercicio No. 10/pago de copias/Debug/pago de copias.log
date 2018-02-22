@@ -1,0 +1,5 @@
+﻿  pago de copias.cpp
+c:\users\jairo\documents\universidad\tercer semestre\programación 1\tarea 1\ejercicio no. 10\pago de copias\pago de copias.cpp(14): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\jairo\documents\universidad\tercer semestre\programación 1\tarea 1\ejercicio no. 10\pago de copias\pago de copias.cpp(18): warning C4129: 'T': secuencia de escape de carácter no reconocida
+c:\users\jairo\documents\universidad\tercer semestre\programación 1\tarea 1\ejercicio no. 10\pago de copias\pago de copias.cpp(54): warning C4129: 'T': secuencia de escape de carácter no reconocida
+  pago de copias.vcxproj -> C:\Users\Jairo\Documents\Universidad\Tercer Semestre\Programación 1\Tarea 1\Ejercicio No. 10\Debug\pago de copias.exe

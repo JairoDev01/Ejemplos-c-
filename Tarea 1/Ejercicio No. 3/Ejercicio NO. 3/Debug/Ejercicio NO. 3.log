@@ -1,0 +1,5 @@
+﻿  Ejercicio NO. 3.cpp
+c:\users\jairo\documents\universidad\tercer semestre\programación 1\tarea 1\grupo de numeros\ejercicio no. 3\ejercicio no. 3.cpp(11): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\jairo\documents\universidad\tercer semestre\programación 1\tarea 1\grupo de numeros\ejercicio no. 3\ejercicio no. 3.cpp(35): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\jairo\documents\universidad\tercer semestre\programación 1\tarea 1\grupo de numeros\ejercicio no. 3\ejercicio no. 3.cpp(39): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Ejercicio NO. 3.vcxproj -> C:\Users\Jairo\Documents\Universidad\Tercer Semestre\Programación 1\Tarea 1\grupo de numeros\Debug\Ejercicio NO. 3.exe

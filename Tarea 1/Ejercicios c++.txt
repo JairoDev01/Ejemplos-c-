@@ -1,0 +1,71 @@
+1.- Realice un algoritmo que permita calcular y dar como salida el promedio general de una sección, tomando en cuenta que esta compuesta por 25 estudiantes y que se tiene la nota definitiva de cada uno de ellos.
+3.- Dado un grupo de 75 Números (Diferentes a Cero), realice un algoritmo que permita determinar y dar como salida lo siguiente:
+* Número Mayor y número menor encontrado en el grupo
+* Cantidad de Números Mayores a 150
+* Cantidad de Números Negativos Encontrados
+* Promedio de los Positivos Encontrados.
+
+5.- Realice un Algoritmo que permita calcular y dar como salida el promedio de bateo (PB) de cada jugador perteneciente a un equipo de 40 jugadores, tomando en cuenta que se tienen los siguientes datos:
+
+* Nombre del Jugador
+* Veces al Bate (VB)
+* Hit Conectados (HIT)
+* Extrabases Conectadas (EXT)
+* Cantidad de Sacrificios (S)
+* Cantidad de Bases por Bolas Recibidas (BB)
+
+Nota: PB = BBC / VLB * 1000
+donde:
+BBC = HIT + EXT
+VLB = VB – S – BB
+
+6.- CANTV Posee dos tipos de clientes: Residencial y Empresarial, realice un algoritmo que permita procesar “n” cantidad de clientes teniendo como datos por C/U. de ellos: Código del Cliente, Tipo de Cliente, Lectura Actual, Lectura Anterior; Calculando y dando como salida la cantidad de Impulsos consumidos y el neto a pagar por cada cliente.
+
+Los Impulsos se cobran a razón de:
+
+Residencial 25 Bs.
+
+Empresarial 35 Bs.
+
+Nota: Cant. De Imp = L. Actual – L. Anterior.
+
+10.- Una Empresa de Reproducción desea realizar un algoritmo que permita calcular y dar como salida el pago que tiene que hacer cada cliente por concepto de copias, tomando en cuenta que se tienen los siguientes datos:
+
+* Cod. de Cliente
+* Tipo de Copia (Carta, Oficio, ExtraOficio)
+* Cantidad de Copias
+
+Además el Algoritmo debe reportar lo siguiente:
+
+* Total de Copias tipo Carta y Tipo Oficio procesadas por la empresa.
+* Promedio de Ventas en Bs.
+* Cod. Del Cliente que cancelo mas dinero por el servicio.
+
+El Valor por tipo de Copia es:
+
+* Carta 0,30 Bs.
+* Oficio 0,40 Bs.
+* Extraoficio 0,50 Bs.
+
+El Algoritmo debe funcionar para “n” cantidad de clientes.
+
+12.- Realice un Algoritmo que teniendo en cuenta los siguientes datos de entrada:
+
+* Cod. De Cliente
+* Tipo de Cuenta (Ahorro, Corriente)
+* Tipo de Actualización (Aporte, Retiro)
+* Monto de la Transacción
+
+Calcule y de cómo salida lo siguiente:
+
+* Monto Total de Aporte en Ahorro
+* Monto Total de Retiro en Corriente
+* Promedio de Retiro en Ahorro.
+
+13.- Realice un Algoritmo que permita dar como salida la población de dos países (a y b), teniendo en cuenta para tal propósito lo siguiente:
+
+* En el Primer Año el País “a” tiene menos población que el país “b”
+* Las Tazas de crecimiento de los países “a” y “b” son de 6% y 3% anuales respectivamente.
+* Se debe dar como salidas las poblaciones desde el segundo año hasta que la población de “a” exceda a la población de “b”, además la cantidad de años que transcurrieron para que esto sucediera
+
+Hoja de ejercicios de referencia.
